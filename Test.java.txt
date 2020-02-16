@@ -1,4 +1,7 @@
 class Test{
 
+p s v main(){
+
+}
 
 }
